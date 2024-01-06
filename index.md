@@ -42,6 +42,6 @@ My current research focuses on photoelectrochemical solar energy conversion usin
 - **Jun 2023：** Happy to be awarded the Santos-UniSA Scholarship (AUD 27,500 per year).
 - **Jun 2023：** Successfully obtained the Bachelor of Science degree and awarded the Outstanding Graduate of Anhui Province and Anhui Polytechnic University.
 - **Apr 2023：** Congratulations our paper has been accepted by _**Inorganic Chemistry Frontiers**_! Click [here](https://pubs.rsc.org/en/content/articlelanding/2023/QI/D3QI00472D) to get this paper.
-- **Feb 2023：** Congratulations the first author paper has been accepted by Applied Surface Science! Click [here](https://www.sciencedirect.com/science/article/pii/S0169433222029828?via%3Dihub) to get this paper.
+- **Feb 2023：** Congratulations the first author paper has been accepted by _**Applied Surface Science**_! Click [here](https://www.sciencedirect.com/science/article/pii/S0169433222029828?via%3Dihub) to get this paper.
 
 If you are interested in my works, please feel free to contact me!
