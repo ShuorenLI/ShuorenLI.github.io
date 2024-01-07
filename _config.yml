@@ -6,15 +6,15 @@ url: https://ShuorenLI.github.io
 
 # Owner/author information
 owner:
-  Name: Shuoren LI
-  Avatar: sr.png
+  name: Shuoren LI
+  avatar: sr.png
  # bio:
-  Email: shuorenli@gmail.com
+  email: shuorenli@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  Twitter: Shuoren_Li
-  Github: ShuorenLI
-  Linkedin: Shuoren LI
-  Google Scholar: https://scholar.google.com/citations?user=uKY3nvAAAAAJ&hl=en&oi=ao
+  twitter: Shuoren_Li
+  github: ShuorenLI
+  linkedin: Shuoren LI
+  google Scholar: https://scholar.google.com/citations?user=uKY3nvAAAAAJ&hl=en&oi=ao
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -23,7 +23,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-Google_verify: "google-site-verification=CV95qIJqfE3edwVS4RXqeAZ_NUETzzj09wkRlQW_0jA"
+google_verify: "google-site-verification=CV95qIJqfE3edwVS4RXqeAZ_NUETzzj09wkRlQW_0jA"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -47,9 +47,9 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-Timezone: China/Beijing/HongKong
-Future: true
-Highlighter: rouge
+timezone: China/Beijing/HongKong
+future: true
+highlighter: rouge
 # markdown: kramdown
 # markdown: redcarpet
 # pygments: true
