@@ -14,7 +14,7 @@ owner:
   twitter: Shuoren_Li
   github: ShuorenLI
   linkedin: Shuoren LI
-  google Scholar: https://scholar.google.com/citations?user=uKY3nvAAAAAJ&hl=en&oi=ao
+  google scholar: https://scholar.google.com/citations?user=uKY3nvAAAAAJ&hl=en&oi=ao
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -33,21 +33,15 @@ google_verify: "google-site-verification=CV95qIJqfE3edwVS4RXqeAZ_NUETzzj09wkRlQW
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV_ShuorenLI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
+  - title: News
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing/HongKong
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown

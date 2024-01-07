@@ -4,19 +4,17 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 7th Jan 2024
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- July 2023：HKUST Postgraduate Scholarship **(CNY 180,000  per year)**
+- June 2023：Santos-UniSA Scholarship **(AUD 27,500 per year)**
+- Apri 2023：Second Class Academic Scholarship in AHPU (CNY 800)
+- Oct 2021：Xinlong Scholarship **(CNY 10,000)** The highest grade scholarship in AHPU
+- Novermber 2021：First Class Academic Scholarship in AHPU (CNY 1,200)
+- Novermber 2021：Scholarships for Academic Progress in AHPU (CNY 400)
+
 
 ## Competitions
 
@@ -35,19 +33,14 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Honors
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
+- June 2023：Outstanding Graduate of Anhui Province
+- June 2023：Outstanding Graduate of AHPU
+- May 2023：Triple-A Outstanding Student in AHPU
+- May 2023：Pioneer in Scientific Research Activities in AHPU
+- March 2023：Nomination for the 13th China Youth Science and Technology Innovation Award
 - May 2021：Merit Student of Fuzhou University
 - July 2023：*Nomination for Baosteel Scholarship*
 - Sep 2022：*Nomination for China National Scholarship*
 - June 2022：*Nomination for China Telecom Scholarship*<br>
 
-## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>

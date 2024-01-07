@@ -4,32 +4,49 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 7th Jan 2024
 
-## Conference Paper
+## Journal Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- [Engineering a non-noble plasmonic center in MOF-derived Z-scheme heterojunctions for enhanced photoelectrochemical water splitting](https://pubs.rsc.org/en/content/articlelanding/2023/QI/D3QI00472D)<br> Chuanping Li*, Tianxiang Hang, Hui Zhou, Ping Ge, **Shuoren Li**, Xian-Dong Zhu*<br>_**Inorganic Chemistry Frontiers**_, 2023, 10, 3375-3382.**(IF= 7.779/Q1)**
+<img src="/images/paper1.gif">
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+- [Defect-Engineered Plasmonic Z-Scheme Heterostructures for Superior Photoelectrochemical Water Splitting](https://www.sciencedirect.com/science/article/pii/S0169433222029828)<br> **Shuoren Li**, Ping Ge, Tianxiang Hang, Hui Zhou, Feifei Guo, Yueyue Wu, Chuanping Li*<br>_**Applied Surface Science**_, 610, (2023), 155454. **(IF=7.392/Q1)**
+<img src="/images/paper2.jpg">
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [Metal–organic Framework-Derived CoSx/NiS Co-Decorated Heterostructures: Toward Simultaneous Acceleration of Charge Carrier Separation and Catalytic Kinetics](https://pubs.acs.org/doi/full/10.1021/acsaem.2c02906)<br> Ping Ge, Tianxiang Hang, Yueyue Wu, **Shuoren Li**, Xingxing Meng, Chuanping Li*<br>_**ACS Applied Energy Materials**_, 2023, 6, 1, 278-284.**(IF= 6.959/Q1)**
+<img src="/images/paper3.jpeg">
 
+- [Synergistic coupling of surface plasmon resonance with metal-organic frameworks based biomimetic Z-Scheme catalyst for enhanced photoelectrochemical water splitting](https://www.sciencedirect.com/science/article/pii/S0169433222022231)<br> Hui Zhou, Xian-Dong Zhu*, Ping Ge, Tianxiang Hang, **Shuoren Li**, Feifei Guo, Yueyue Wu, Chuanping Li*<br>_**Applied Surface Science**_, 605, (2022), 154693.**(IF=7.392/Q1)**
+<img src="/images/paper4.jpg">
+
+- [Metal–Organic Frameworks Derived Plasmonic Catalyst with Full Spectral Response for Photoelectrochemical Water Splitting Enhancement](https://onlinelibrary.wiley.com/doi/abs/10.1002/sstr.202100071)<br> Chuanping Li, **Shuoren Li**, Tianxiang Hang, Feifei Guo, Xiandong Zhu*, Tianfu Liu*.<br>_**Small Structures**_, 2021, 2100071.**(IF=11.343/Q1)**
+This article is also the cover article[Plasmonic Photoelectric Catalysts](https://onlinelibrary.wiley.com/doi/10.1002/sstr.202270020?af=R)
+<img src="/images/paper5.png">
+
+- [Metal-organic frameworks-based hierarchical heterojunction coupling with plasmonic nanoshells for self-powered photoelectrochemical immunoassay](https://www.sciencedirect.com/science/article/pii/S1385894721050397)<br> Tianxiang Hang, Chuanping Li*, Dandan Liang, **Shuoren Li**, Hui Zhou, Ping Ge, Xian-Dong Zhu* and Tian-Fu Liu.<br>_**Chemical Engineering Journal**_, 431, (2022), 133465. **(IF=16.744/Q1)**
+<img src="/images/paper6.jpg">
+
+[Plasmon-enhanced unidirectional charge transfer for efficient solar water oxidation](https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR00324K)<br> Chuanping Li*, **Shuoren Li**, Chen Xu, Kongshuo Ma.<br>_**Nanoscale**_, 2021, 13(8), 4654-4659. **(IF=8.307/Q1)**
+<img src="/images/paper7.gif">
   <br>
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- **Shuoren Li**, Rui Wu, Xingxing Meng, Leilei Diao, Jing Wang, Chuanping Li*. Metal-Organic Framework-Derived Sugarcoated Haws-like AgNWs/ZIF-8/Pd for Plasmon-Promoted Photocatalytic Hydrogenation. Under Review.<br>
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- **Shuoren Li**, Sihao Huang, Zixuan Yu, Jianan LI, Chang Yan*, Zhou Teng*. Perovskite Materials for Highly Efficient Photo(electro)catalytic Solar Water Splitting: A mini review. Under Review.
 
   <br>
 
 ---
 
-## Undergraduate Thesis
+## Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to publish a research paper to Internet of Things Journal (IoTJ 2024)
+Looking forward to the update~
+The Bachelor of Science (BSc) degree is obtained by replacing the thesis with the above mentioned academic papers.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+## Conference Papers
 
+Looking forward to the update~
   <br>
