@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shuoren LI (李碩人)**.
 
-I am a first-year MPhil student majoring in **Sustainable Energy and Environment (SEE)** at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. I was receiving my BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a first-year MPhil student majoring in **Sustainable Energy and Environment (SEE)** at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. I was receiving my BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](file/CV_Shuoren%20LI.pdf)].
 
 <br>
 
