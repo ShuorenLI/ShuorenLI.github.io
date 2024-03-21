@@ -20,14 +20,14 @@ title: Blogs
 
 ### 2021
 
-- 
-<img src="/images/2020.10.25.png"><br>
+- Sep 15th, we moved to a brand new laboratory! Even though we have only been there for a short time, we have been assigned to our respective labs and all the experiments are now working properly. (Location of the new lab: Room 412, Building 3, AHPU Main Campus)
+<img src="/images/2021.9.15.png"><br>
 
-- 
-<img src="/images/2020.10.25.png"><br>
+- May 11th, I attended ACS on Campus and went to University of Science and Technology of China (USTC) to listen to Prof. Shu Wang's presentation (Executive Editor of ACS Applied Bio Materials) and to get a better understanding of CAS Finder. The final face-to-face meeting with the editors-in-chief was also very beneficial, with Prof Liu Shiyong, Deputy Editor-in-Chief of Chemistry of Materials, and Academician Tian He, Deputy Editor-in-Chief of ACS Applied Materials & Interfaces, taking part in the seminar.
+<img src="/images/2021.5.11.png"><br>
 
-- 
-<img src="/images/2020.10.25.png"><br>
+- Apr 28th, I was awarded the "Anhui HeLi Cup", the 8th Top Ten College Students (Science and Technology Innovation) of Anhui Polytechnic University. I am the youngest student and the winner of this honour in the field of science and technology innovation in the eight years of the competition.
+<img src="/images/2021.4.28.png"><br>
 
 - Mar 6th, I led the team to conduct a research in Jinzhai County, Lu'an City, Anhui Province, and took a group photo at a local villager's house. This research gave me a deeper understanding of the hospitality of the people in the old revolutionary area, and also exercised my organisational planning skills.
 <img src="/images/2021.3.6.JPG"><br>

@@ -35,7 +35,7 @@ This article is also the cover article[Plasmonic Photoelectric Catalysts](https:
 
 - **Shuoren Li**, Rui Wu, Xingxing Meng, Leilei Diao, Jing Wang, Chuanping Li*. Metal-Organic Framework-Derived Sugarcoated Haws-like AgNWs/ZIF-8/Pd for Plasmon-Promoted Photocatalytic Hydrogenation. Under Review.<br>
 
-- **Shuoren Li**, Sihao Huang, Zixuan Yu, Jianan LI, Chang Yan*, Zhou Teng*. Perovskite Materials for Highly Efficient Photo(electro)catalytic Solar Water Splitting: A mini review. Under Review.
+- **Shuoren Li**, Hao Wu*, Chang Yan*. Perovskite Materials for Highly Efficient Photo(electro)catalytic Solar Water Splitting: A mini review. Under Review.
 
   <br>
 
