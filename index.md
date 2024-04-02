@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/shuorenli.png" class="floatpic" width="360" height="480">
+<img src="images/shuorenli_2.jpg" class="floatpic" width="208" height="208">
 
 Here is **Shuoren LI (李碩人)**.
 
