@@ -8,6 +8,9 @@ Lastest Update: 22nd Mar 2024
 
 ## Journal Paper
 
+- [Perovskite materials for highly efficient Photo(electro)catalytic water splitting: A mini-review](https://www.sciencedirect.com/science/article/pii/S2589965124000771)<br>  **Shuoren Li**, Hao Wu*, Chang Yan*, 2024. (In Press, Corrected Proof)**(IF= 9.90)**
+<img src="/images/Paper8.jpg"> 
+
 - [Engineering a non-noble plasmonic center in MOF-derived Z-scheme heterojunctions for enhanced photoelectrochemical water splitting](https://pubs.rsc.org/en/content/articlelanding/2023/QI/D3QI00472D)<br> Chuanping Li*, Tianxiang Hang, Hui Zhou, Ping Ge, **Shuoren Li**, Xian-Dong Zhu*<br>_**Inorganic Chemistry Frontiers**_, 2023, 10, 3375-3382.**(IF= 7.779/Q1)**
 <img src="/images/paper1.gif">
 
@@ -34,8 +37,6 @@ This article is also the cover article[Plasmonic Photoelectric Catalysts](https:
 ## Working Manuscript
 
 - **Shuoren Li**, Rui Wu, Xingxing Meng, Leilei Diao, Jing Wang, Chuanping Li*. Metal-Organic Framework-Derived Sugarcoated Haws-like AgNWs/ZIF-8/Pd for Plasmon-Promoted Photocatalytic Hydrogenation. Under Review.<br>
-
-- **Shuoren Li**, Hao Wu*, Chang Yan*. Perovskite Materials for Highly Efficient Photo(electro)catalytic Solar Water Splitting: A mini review. Under Review.
 
   <br>
 

@@ -37,8 +37,9 @@ My current research focuses on photoelectrochemical solar energy conversion usin
 
 ## News and Updates
 
+- **Jun 2024：** Congratulations the first author review paper has been accepted by _**Nano Materials Science**_! Click [here](https://www.sciencedirect.com/science/article/pii/S2589965124000771) to get this review paper.
 - **Jan 2024：** Congratulations to Swan Saver Group for winning third prize in the 2024 Red Bird Maker Space Sustainable Smart Life Competition!
-- **Jul 2023：** Happy to be awarded the Postgraduate Scholarship in HKUST (CNY 180,000 per year).
+- **Jul 2023：** Happy to be awarded the Postgraduate Scholarship in HKUST (CNY 120,000 per year).
 - **Jun 2023：** Happy to be awarded the Santos-UniSA Scholarship (AUD 27,500 per year).
 - **Jun 2023：** Successfully obtained the Bachelor of Science degree and awarded the Outstanding Graduate of Anhui Province and Anhui Polytechnic University.
 - **Apr 2023：** Congratulations our paper has been accepted by _**Inorganic Chemistry Frontiers**_! Click [here](https://pubs.rsc.org/en/content/articlelanding/2023/QI/D3QI00472D) to get this paper.
