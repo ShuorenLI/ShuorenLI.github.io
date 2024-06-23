@@ -8,7 +8,7 @@ Lastest Update: 22nd Mar 2024
 
 ## Scholarships
 
-- Jul 2023：HKUST Postgraduate Scholarship **(CNY 180,000  per year)**
+- Jul 2023：HKUST Postgraduate Scholarship **(CNY 120,000  per year)**
 - Jun 2023：Santos-UniSA Scholarship **(AUD 27,500 per year)**
 - Apr 2023：Second Class Academic Scholarship in AHPU (CNY 800)
 - Oct 2021：Xinlong Scholarship **(CNY 10,000)** The highest grade scholarship in AHPU
