@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shuoren LI (李碩人)**.
 
-I am a first-year MPhil student majoring in **Sustainable Energy and Environment (SEE)** at The Hong Kong University of Science and Technology (HKUST) Guangzhou Campus. I was receiving my BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](file/CV_Shuoren%20LI.pdf)].
+I am a first-year MPhil student majoring in **Sustainable Energy and Environment (SEE)** at The Hong Kong University of Science and Technology Guangzhou Campus (HKUST(GZ)). I was receiving my BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](file/CV_Shuoren%20LI.pdf)].
 
 <br>
 
@@ -28,6 +28,7 @@ I am a first-year MPhil student majoring in **Sustainable Energy and Environment
 - Photovoltaic Materials
 - Nanoelectronics
 - Localized Surface Plasmon Resonance
+- Perovskite Materials
 
 My current research focuses on photoelectrochemical solar energy conversion using advanced photovoltaic materials. The advantages of photoelectrochemical solar energy conversion are further exploited through more detailed research. I wish to devote my talent to this meaningful cause and bring well-being to society.
 

@@ -62,8 +62,9 @@ This article is also the cover article[Plasmonic Photoelectric Catalysts](https:
 
 ## Working Manuscript
 
-- **Shuoren Li**, Rui Wu, Xingxing Meng, Leilei Diao, Jing Wang, Chuanping Li*. Metal-Organic Framework-Derived Sugarcoated Haws-like AgNWs/ZIF-8/Pd for Plasmon-Promoted Photocatalytic Hydrogenation. Under Review.<br>
+- **Shuoren Li**, Rui Wu, Xingxing Meng, Leilei Diao, Jing Wang, Chuanping Li*. Metal-Organic Framework-Derived Sugarcoated Haws-like AgNWs/ZIF-8/Pd for Plasmon-Promoted Photocatalytic Hydrogenation. Preprint. arXiv:2408.02356.<br>
 
+- Sihao Huang#, Bin Han#, **Shuoren Li**, Shuyan Chen, Chang Yan*. Polymerization-enhanced flexible perovskite solar cells: mini-review. Under Review.<br>
   <br>
 
 ---
