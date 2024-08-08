@@ -19,6 +19,7 @@ Lastest Update: 22nd Mar 2024
 ## Competitions
 
 ### 2024
+- Jul, **Third Prize** in the Sustainable Design Thinking Program 2024
 - Jan, **Third Prize** in the 2024 Red Bird Maker Space Sustainable Smart Life Competition
 - Jan, **Participation Prize** in the Thesis Writing Competition
 

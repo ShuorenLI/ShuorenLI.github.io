@@ -4,10 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 22nd Mar 2024
+Lastest Update: 3rd July 2024
 
 ## Journal Paper
 
+<<<<<<< HEAD
 - [Perovskite materials for highly efficient Photo(electro)catalytic water splitting: A mini-review](https://www.sciencedirect.com/science/article/pii/S2589965124000771)<br>_**Nano Materials Science**_, 2024 **Shuoren Li**, Hao Wu*, Chang Yan*, 2024. (In Press, Corrected Proof)**(IF= 12.6)**
 <img src="/images/Paper8.jpg"> 
 
@@ -31,6 +32,31 @@ This article is also the cover article[Plasmonic Photoelectric Catalysts](https:
 <img src="/images/paper6.jpg">
 
 [Plasmon-enhanced unidirectional charge transfer for efficient solar water oxidation](https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR00324K)<br> Chuanping Li*, **Shuoren Li**, Chen Xu, Kongshuo Ma.<br>_**Nanoscale**_, 2021, 13(8), 4654-4659. **(IF=5.8/Q1)**
+=======
+- [Perovskite materials for highly efficient Photo(electro)catalytic water splitting: A mini-review](https://www.sciencedirect.com/science/article/pii/S2589965124000771)<br>  **Shuoren Li**, _Hao Wu*_, _Chang Yan*_, **Nano Materials Science**, 2024. (In Press, Corrected Proof)**(IF= 12.6/Q1)**
+<img src="/images/Paper8.jpg"> 
+
+- [Engineering a non-noble plasmonic center in MOF-derived Z-scheme heterojunctions for enhanced photoelectrochemical water splitting](https://pubs.rsc.org/en/content/articlelanding/2023/QI/D3QI00472D)<br> _Chuanping Li*_, Tianxiang Hang, Hui Zhou, Ping Ge, **Shuoren Li**, _Xian-Dong Zhu*_, **Inorganic Chemistry Frontiers**, 2023, 10, 3375-3382.**(IF= 6.1/Q1, IF= 7.779/Q1 when accepted)**
+<img src="/images/paper1.gif">
+
+- [Defect-Engineered Plasmonic Z-Scheme Heterostructures for Superior Photoelectrochemical Water Splitting](https://www.sciencedirect.com/science/article/pii/S0169433222029828)<br> **Shuoren Li**, Ping Ge, Tianxiang Hang, Hui Zhou, Feifei Guo, Yueyue Wu, _Chuanping Li*_, **Applied Surface Science**, 2023, 610, 155454. **(IF= 6.3/Q1, IF= 7.392 when accepted)**
+<img src="/images/paper2.jpg">
+
+- [Metal–organic Framework-Derived CoSx/NiS Co-Decorated Heterostructures: Toward Simultaneous Acceleration of Charge Carrier Separation and Catalytic Kinetics](https://pubs.acs.org/doi/full/10.1021/acsaem.2c02906)<br> Ping Ge, Tianxiang Hang, Yueyue Wu, **Shuoren Li**, Xingxing Meng, _Chuanping Li*_, **ACS Applied Energy Materials**, 2023, 6, 1, 278-284.**(IF= 5.4/Q2 6.959 when accepted)**
+<img src="/images/paper3.jpeg">
+
+- [Synergistic coupling of surface plasmon resonance with metal-organic frameworks based biomimetic Z-Scheme catalyst for enhanced photoelectrochemical water splitting](https://www.sciencedirect.com/science/article/pii/S0169433222022231)<br> Hui Zhou, _Xian-Dong Zhu*_, Ping Ge, Tianxiang Hang, **Shuoren Li**, Feifei Guo, Yueyue Wu, _Chuanping Li*_, **Applied Surface Science**, 2022, 605, 154693.**(IF= 6.3/Q1, IF= 7.392 when accepted)**
+<img src="/images/paper4.jpg">
+
+- [Metal–Organic Frameworks Derived Plasmonic Catalyst with Full Spectral Response for Photoelectrochemical Water Splitting Enhancement](https://onlinelibrary.wiley.com/doi/abs/10.1002/sstr.202100071)<br> Chuanping Li, **Shuoren Li**, Tianxiang Hang, Feifei Guo, _Xiandong Zhu*_, _Tianfu Liu*_, **Small Structures**, 2021, 2100071.**(IF= 13.9/Q1)**
+This article is also the cover article[Plasmonic Photoelectric Catalysts](https://onlinelibrary.wiley.com/doi/10.1002/sstr.202270020?af=R)
+<img src="/images/paper5.png">
+
+- [Metal-organic frameworks-based hierarchical heterojunction coupling with plasmonic nanoshells for self-powered photoelectrochemical immunoassay](https://www.sciencedirect.com/science/article/pii/S1385894721050397)<br> Tianxiang Hang, _Chuanping Li*_, Dandan Liang, **Shuoren Li**, Hui Zhou, Ping Ge, _Xian-Dong Zhu*_, Tian-Fu Liu, **Chemical Engineering Journal**, 2022, 431, 133465. **(IF=13.3/Q1 IF= 16.74 when accepted)**
+<img src="/images/paper6.jpg">
+
+[Plasmon-enhanced unidirectional charge transfer for efficient solar water oxidation](https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR00324K)<br> Chuanping Li*, **Shuoren Li**, Chen Xu, Kongshuo Ma.<br>_**Nanoscale**_, 2021, 13(8), 4654-4659. **(IF=5.8/Q1 IF= 8.307 when accepted)**
+>>>>>>> a054ba83f8bfbf5b92d9dca25bdb95afd7efcf24
 <img src="/images/paper7.gif">
   <br>
 
@@ -44,10 +70,10 @@ This article is also the cover article[Plasmonic Photoelectric Catalysts](https:
 
 ## Thesis
 
-Looking forward to the update~
+Looking forward to the update ~
 The Bachelor of Science (BSc) degree is obtained by replacing the thesis with the above mentioned academic papers.
 
 ## Conference Papers
 
-Looking forward to the update~
+Looking forward to the update ~
   <br>
