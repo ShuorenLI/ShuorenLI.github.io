@@ -8,7 +8,9 @@ layout: page
 
 Here is **Shuoren LI (李硕人)**.
 
-I am a first-year MPhil student majoring in **Sustainable Energy and Environment (SEE)** at The Hong Kong University of Science and Technology Guangzhou Campus (HKUST(GZ)). I was receiving my BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](file/CV_Shuoren%20LI.pdf)].
+I am a first-year PhD student majoring in **Integrated System Design (ISD)** at The Hong Kong University of Science and Technology (HKUST). I have received the MPhil degree in Oct 2025 in **Sustainable Energy and Environment** at The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)) and BSc degree in June 2023 majoring in **Applied Chemistry** at Anhui Polytechnic University. I have also conducted visiting research under the supervision of [Prof. Hongyu CHEN](https://www.westlake.edu.cn/faculty/hongyu-chen.html) at Westlake University. Currently work is focus on Chalcopyrite-based sulphide solar cells for building integration photovoltaic (BIPV) applications. And this research project is advised by two academic supervisors.[Prof. Changying XIANG](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=changying-xiang-changyingx) and [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan)
+
+on the inorganic solar cell Currently working on advanced photovoltaic materials for "solarfuel", advised by two academic supervisors, advised by [Prof. Chang YAN](https://ece.hkust.edu.hk/changyan) and [Prof. Teng ZHOU](https://cbe.hkust.edu.hk/people/teng-zhou). Here is [[my CV](file/CV_Shuoren%20LI.pdf)].
 
 <br>
 
